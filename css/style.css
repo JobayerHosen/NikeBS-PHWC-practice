@@ -1,0 +1,24 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.font-cs-main {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.header-title {
+    font-size: 3rem;
+}
+.title {
+    font-size: 1.5rem;
+}
+
+@media  only screen and (min-width: 1024px) {
+    .header-title {
+        font-size: 5rem;
+    }
+    .title {
+        font-size: 3rem;
+    }
+
+}
